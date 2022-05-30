@@ -6,14 +6,16 @@
 ### <div align="center">Hi i'm Théo, I'm student at 42 School since February 2022 👨‍💻</div>  
   
 
-- 🌱 I’m currently learning C & C++ 
+- 🌱 I’m currently learning C & C++
   
+
 - 🌍 I'm based in Mulhouse
   
 
 - ✉️ You can contact me at tbrissia@student.42mulhouse.fr 
   
-- 🧰 Currently working on cub3D, a minimal version of Wolfenstein coded in C 
+
+- 🧰 Currently working on cub3D, a minimal version of Wolfenstein coded in C
   
 
 <br/>  
@@ -27,6 +29,7 @@
 </div>
 
 
+
 </td></tr></table>  
 
 <br/>  
@@ -37,7 +40,7 @@
 <a href="https://github.com/rishavanand" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/th%C3%A9o-brissiaud-847151218/" target="_blank">
+<a href="https://linkedin.com/in/théo-brissiaud-847151218" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
