@@ -52,3 +52,6 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brissboss&hide_border=true&layout=compact" align="center" /></div>
 <br />
+
+<div align="center"><a href="https://wakatime.com/@14b8efb4-e272-4cf8-9c5e-7bd1923478f8"><img src="https://wakatime.com/badge/user/14b8efb4-e272-4cf8-9c5e-7bd1923478f8.svg" alt="Total time coded since May 10 2022" /></a>
+ </div>
