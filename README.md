@@ -15,7 +15,7 @@
 - ✉️ You can contact me at tbrissia@student.42mulhouse.fr 
   
 
-- 🧰 I'm currently working on ft_transcendence, a website allowing to play Pong in multiplayer.
+- 🧰 I'm currently working on EatsLab, a website where restaurant owners can create their menu online, using a QR code
   
 
 <br/>  
