@@ -4,7 +4,7 @@
 - 🔭 I’m currently working for Pecule  
   
 
-- 🌱 I’m currently learning Nuxt.js  
+- 🌱 I’m currently learning Swift
   
 
 - ✉️ You can contact me at theobrissiaud@icloud.com  
