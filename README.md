@@ -1,10 +1,7 @@
 ### <div align="center">Hi, I’m Théo, I’m a front-end web developer 👨🏻‍💻</div>  
   
 
-- 🔭 I’m currently working for Pecule  
-  
-
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working for Fraktiom  
   
 
 - ✉️ You can contact me at theobrissiaud@icloud.com  
